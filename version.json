@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "notes": "Phones now show the same layout as tablets, with a new Screen layout option in Settings. Saving is now safer, so your data can't be lost if the app closes while saving.",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "notes": "Buttons and pop-ups now fit fully on small phones, Discard changes works reliably, and the Cards view shows its input boxes again.",
   "url": "https://kelvinkhevo.github.io/DataClerk.apk"
 }
