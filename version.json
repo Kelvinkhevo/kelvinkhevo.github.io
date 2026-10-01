@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "notes": "When you leave a dataset after making changes, you can now choose to save or discard them. Tables have clear cell borders, and the back button closes pop-ups instead of the app.",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "notes": "Phones now show the same layout as tablets, with a new Screen layout option in Settings. Saving is now safer, so your data can't be lost if the app closes while saving.",
   "url": "https://kelvinkhevo.github.io/DataClerk.apk"
 }
