@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "notes": "Buttons and pop-ups now fit fully on small phones, Discard changes works reliably, and the Cards view shows its input boxes again.",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "notes": "Buttons and pop-ups now fit fully on small phones, Discard changes works reliably, and deleting from Manage storage now asks you to confirm first.",
   "url": "https://kelvinkhevo.github.io/DataClerk.apk"
 }
