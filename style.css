@@ -55,7 +55,12 @@ li + li { margin-top: 6px; }
 .features strong { display: block; margin-bottom: 4px; }
 .features p { margin: 0; font-size: 14.5px; color: var(--ink-2); }
 
-.note { background: var(--green-soft); border-radius: 10px; padding: 16px 18px; margin-top: 20px; }
+.download { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-top: 4px; }
+.btn-download { display: inline-flex; align-items: center; min-height: 48px; padding: 0 22px; border-radius: 8px; background: #0a7d55; color: #fff; font-weight: 600; text-decoration: none; }
+.btn-download:hover { background: #075f41; }
+@media (prefers-color-scheme: dark) { .btn-download { background: var(--green); color: #04261a; } .btn-download:hover { background: var(--mint); } }
+
+.note {background: var(--green-soft); border-radius: 10px; padding: 16px 18px; margin-top: 20px; }
 .note p { margin: 0; }
 .meta { color: var(--ink-2); font-size: 14px; margin: 0; }
 
