@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "notes": "Buttons and pop-ups now fit fully on small phones, Discard changes works reliably, and deleting from Manage storage now asks you to confirm first.",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "notes": "Exported Excel and CSV files are now saved to your phone in Documents › Data Clerk, where any file manager can open them.",
   "url": "https://kelvinkhevo.github.io/DataClerk.apk"
 }
